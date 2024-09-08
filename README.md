@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi😎, I'm Kafayah Olaniyan<br>A Data Scientist😋<br>👯 I’m looking to collaborate on data science related projects<br>🤝 I’m looking for help with jobs<br>🌱 I’m currently learning flutter<br>💬 Reach out to me: olaniyanfeyikemi@gmail.com<br>
+Hi😎, I'm Kafayah Olaniyan<br>A Frontend Developer😋<br>🤝 I’m looking for help with jobs<br>💬 Reach out to me: olaniyanfeyikemi@gmail.com<br>
 
 
 # 💻 Tech Stack:
