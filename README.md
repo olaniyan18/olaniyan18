@@ -78,7 +78,7 @@ Building a scalable SaaS platform with complete user onboarding, authentication,
 
 - **Email:** olaniyanfeyikemi@gmail.com
 - **Phone:** +234 814 208 9061
-- **Portfolio:** [Your Portfolio URL]
-- **LinkedIn:** [Your LinkedIn URL]
+- **Portfolio:**  https://olaniyan18.github.io/Portfolio/
+
 
 ---
