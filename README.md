@@ -1,23 +1,84 @@
-### Hi there 👋
+# Hi, I'm Kafayah Olaniyan 
 
-# 💫 About Me:
-Hi😎, I'm Kafayah Olaniyan<br>A Frontend Developer😋<br>🤝 I’m looking for help with jobs<br>💬 Reach out to me: olaniyanfeyikemi@gmail.com<br>
+**Frontend Developer | React Specialist | JavaScript Enthusiast**
+
+I'm a frontend developer with **2+ years of professional experience** building responsive web applications at Uppist Limited. Passionate about creating clean, user-friendly interfaces and writing maintainable code.
+
+Currently seeking opportunities in Canada through the Alberta Advantage PNP.
+
+---
+
+##  What I Do
+
+- Build responsive web applications with **React.js**
+- Write clean, semantic **HTML5** and **CSS3**
+- Create dynamic interfaces with modern **JavaScript (ES6+)**
+- Design pixel-perfect UIs that work across all devices
+- Collaborate with teams to deliver high-quality products
+
+---
+
+##  Tech Stack
+
+**Frontend Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+##  Featured Projects
+
+### AI-Powered Chatbot
+**Uppist Limited** | React, JavaScript, APIs
+
+Intelligent chatbot system deployed in production. Handles real-time customer interactions with natural language understanding and context awareness.
+
+### Multi-Tenancy Web Application
+**Uppist Limited** | React, JavaScript, Responsive Design
+
+Building a scalable SaaS platform with complete user onboarding, authentication, and role-based access control. Currently focused on production-quality signup flows.
 
 
-# 💻 Tech Stack:
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Olaniyan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Olaniyan18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaniyan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Personal Projects
+**50+ projects** showcasing continuous learning and skill development in React, JavaScript, HTML, and CSS.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Olaniyan18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[View All Projects on GitHub](https://github.com/olaniyan18) | [View Portfolio]( https://olaniyan18.github.io/Portfolio/)
 
+---
 
+## 📈 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=olaniyan18&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
--->
+![Kafayah's GitHub stats](https://github-readme-stats.vercel.app/api?username=olaniyan18&theme=react&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olaniyan18&theme=react&hide_border=true&layout=compact)
+
+---
+
+## Goals
+
+- Master React.js and modern JavaScript patterns
+- Build 50+ quality projects (In Progress)
+- Secure a frontend developer role in Canada
+- Contribute to open-source projects
+- Help others learn frontend development
+
+---
+
+##  Let's Connect
+
+- **Email:** olaniyanfeyikemi@gmail.com
+- **Phone:** +234 814 208 9061
+- **Portfolio:** [Your Portfolio URL]
+- **LinkedIn:** [Your LinkedIn URL]
+
+---
