@@ -4,8 +4,6 @@
 
 I'm a frontend developer with **2+ years of professional experience** building responsive web applications at Uppist Limited. Passionate about creating clean, user-friendly interfaces and writing maintainable code.
 
-Currently seeking opportunities in Canada through the Alberta Advantage PNP.
-
 ---
 
 ##  What I Do
